@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://cypress-web-design-2024.netlify.app'
 languageCode = 'en-us'
 title = 'Cypress Group Projets 2024'
 theme = 'ananke'
