@@ -6,4 +6,4 @@ theme = 'ananke'
 [context.production.environment]
   baseURL = 'https://cypress-web-design-2024.netlify.app'
   title = 'Cypress Group Projets 2024'
-  HUGO_VERSION = '0.135.0-extended'
+  HUGO_VERSION = '0.137.0-extended'
