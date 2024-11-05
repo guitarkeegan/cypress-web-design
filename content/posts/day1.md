@@ -2,6 +2,7 @@
 title = 'Day1'
 date = 2024-11-04T16:42:43-08:00
 draft = false
+featured_image = "/images/day1-img.webp"
 +++
 
 ### **Day 1: Pre-Planning and Individual Research**

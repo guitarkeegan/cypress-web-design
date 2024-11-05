@@ -2,6 +2,7 @@
 title = 'Day2'
 date = 2024-11-04T16:49:01-08:00
 draft = false
+featured_image = '/images/forming_groups.webp'
 +++
 
 
