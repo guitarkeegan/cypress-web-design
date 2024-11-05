@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Cypress Group Projets 2024'
+theme = 'ananke'
