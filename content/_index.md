@@ -6,4 +6,3 @@ description: "This page will show the timeline for our group projects."
 theme_version: '2.8.2'
 ---
 
-The page will serve to document our group project design process

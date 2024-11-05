@@ -24,11 +24,13 @@ draft = false
 2. **Individual Research:**
    - **Trend Exploration:**
      - Each student researches current trends, challenges, and innovations in different industries (e.g., technology, healthcare, education, environmental sustainability).
-     - Trends can come from any number of sources. Even Reddit can work well for this purpose.
+     - Trends can come from any number of sources. AI can be great for brainstroming.
+     - Get at least 3 trends that you find interesting.
+     - Narrow down to your top 3 trends.
 
 3. **Idea Generation:**
    - **Problem Identification:**
-     - Students identify at least three problems or opportunities that interest them based on their research.
+     - Students identify at least three problems or opportunities that interest them based on their research of trends.
      - For each problem, write a brief description outlining:
        - The industry context.
        - Why it's important or impactful.
@@ -36,7 +38,7 @@ draft = false
 
 4. **Documentation:**
    - **Preparing to Share:**
-     - Compile findings and ideas in a document or presentation format.
+     - Compile findings and ideas in a document format.
      - Be prepared to share and discuss these ideas with peers in the next session.
 
 ---

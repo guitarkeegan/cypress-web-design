@@ -12,19 +12,19 @@ draft = false
 - Form project groups of 2-4 members.
 - Share individual research findings within groups.
 - Select a project idea to pursue.
-- Begin initial competitive analysis.
+- Begin initial market research and competitive analysis.
 
 **Activities:**
 
 1. **Group Formation:**
    - **Team Selection:**
-     - Facilitate the formation of groups based on common interests or complementary skills.
+     - Formation of groups based on common interests or complementary skills.
      - Ensure all students are part of a group.
 
 2. **Idea Sharing:**
    - **Present Individual Ideas:**
      - Each member presents their three researched problems to the group.
-     - Encourage open discussion and note-taking.
+     - Open discussion and note-taking.
 
 3. **Idea Evaluation:**
    - **Selection Criteria:**
@@ -39,12 +39,13 @@ draft = false
 4. **Project Decision:**
    - **Final Selection:**
      - Choose one project idea to pursue.
-     - Share with the instructor to ensure it meets project requirements.
+     - Share with the instructor.
 
 5. **Initial Competitive Analysis:**
    - **Market Research:**
      - Begin researching existing solutions related to the chosen problem.
      - Identify key competitors, their offerings, strengths, and weaknesses.
+     - Where might your solution fit in the market?
    - **Documentation:**
      - Start compiling findings for a comprehensive competitive analysis.
      - Use the previous template, find another, or make your own!
