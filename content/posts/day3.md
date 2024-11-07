@@ -2,6 +2,7 @@
 title = 'Day3'
 date = 2024-11-06T10:05:22-08:00
 draft = false
+featured_image = '/images/usr_personae.webp'
 +++
 
 
