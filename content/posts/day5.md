@@ -4,28 +4,46 @@ date = 2024-11-07T15:54:30-08:00
 draft = true
 +++
 
-### **Day 5: Low-Fidelity Wireframing Flow Chart**
+### **Day 5: Defining Project Goals and User Journey Mapping**
 
 **Objectives:**
 
-- Begin creating low-fidelity wireframes of the product.
-- Create a basic flow chart to show the app navigation.
+- Formalize project goals and key features.
+- Identify top tasks that users need to accomplish.
+- Create user *journey maps* and/or *storyboards*.
 
 **Activities:**
 
-1. **Wireframing:**
-   - Start sketching initial ideas on paper or using Figma.
-   - Create low-fidelity wireframes in Figma to establish the basic layout and navigation flow.
+1. **Top Tasks Analysis:**
+   - **User Task Identification:**
+     - List the primary tasks users need to perform within the solution.
+     - Prioritize tasks based on user importance and frequency.
+     - What would and MVP (minimum viable product) look like?
 
-2. **Flow Chart:**
-   - Create a basic flow chart to show the app's navigation.
-   - Use Figma or Figjam to create the flow chart.
+2. **User Journey Mapping:**
+   - **Journey Creation:**
+     - Develop a user journey map for each [persona](/posts/day3)
+     - Highlight touchpoints, user emotions, and potential pain points at each stage.
+   - **Visualization:**
+     - Use visual aids to represent the journey, making it easier to identify areas for improvement.
+     {{< figure src="https://cdn.prod.website-files.com/5c7fdbdd4e3feeee8dd96dd2/61f30632c825c83952c1ad95_user%20map%203.jpg" alt="User Journey Map" caption="User Journey Map" >}}
 
-   {{< figure src="https://svg.template.creately.com/geqyowvc6" alt="Flow chart example" caption="A Flow Chart can be used to demonstrate how a user can navigate the application." >}}
+3. **Storyboard Development (Optional):**
+   - **Narrative Creation:**
+     - Create storyboards that depict scenarios of how the product fits into users' lives.
+     - Illustrate contexts of use, environments, and interactions.
+   - **Enhance Understanding:**
+     - Use storyboards to empathize with users and refine features accordingly.
 
-2. **Process Documentation:**
-   - Start setting up a simple website using Webflow or HTML/CSS to document the project's progress.
-   - This will likely need to be dedicated to one member's account.
-   - For a more collaborative approach, you can use Github or Github pages.
+     {{< figure src="https://cdn.prod.website-files.com/666aa4fbe0e580742d2d8407/66f2c0936e57fe161ef9a3f9_UX-Storyboard_Example-Color-2-720x466.png" alt="Storyboard example" caption="Storyboard" >}}
+
+4. **Review and Submissions:**
+   - **Group Discussion:**
+     - Review all materials created so far.
+     - Ensure everyone is aligned on the project direction.
+   - **Submit:**
+     - :white_check_mark: At this point, what are the main features?
 
 ---
+
+

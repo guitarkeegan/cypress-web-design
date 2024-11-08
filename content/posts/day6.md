@@ -4,31 +4,28 @@ date = 2024-11-07T16:13:42-08:00
 draft = true
 +++
 
-### **Day 6: High-Fidelity Prototyping and Design System Development**
+### **Day 6: Low-Fidelity Wireframing Flow Chart**
 
 **Objectives:**
 
-- Develop high-fidelity prototypes in Figma.
-- Begin building a design system with reusable components.
+- Begin creating low-fidelity wireframes of the product.
+- Create a basic flow chart to show the app navigation.
 
 **Activities:**
 
-1. **High-Fidelity Design:**
-   - Build from the wireframes by adding visual design elements like color, typography, and imagery.
-   - Ensure the prototype aligns with the user personas and journey maps created earlier.
+1. **Wireframing:**
+   - Start sketching initial ideas on paper or using Figma.
+   - Create low-fidelity wireframes in Figma to establish the basic layout and navigation flow.
 
-2. **Design System Creation:**
-   - Establish a design system in Figma that includes:
-     - Color palettes and themes.
-     - Typography styles for headings, body text, etc.
-     - Create components for buttons, forms, icons, and navigation elements.
-     - Use variables in Figma where helpful to maintain consistency.
+2. **Flow Chart:**
+   - Create a basic flow chart to show the app's navigation.
+   - Use Figma or Figjam to create the flow chart.
 
-3. **Update Documentation Site:**
-   - Remember to update the site as the design is built out.
+   {{< figure src="https://svg.template.creately.com/geqyowvc6" alt="Flow chart example" caption="A Flow Chart can be used to demonstrate how a user can navigate the application." >}}
 
-4. **Submisson:**
-   - :white_check_mark: Submit the current progress on the high-fidelity design.
-   - :white_check_mark: Do the same for the design system.
+2. **Process Documentation:**
+   - Start setting up a simple website using Webflow or HTML/CSS to document the project's progress.
+   - This will likely need to be dedicated to one member's account.
+   - For a more collaborative approach, you can use Github or Github pages.
 
 ---
