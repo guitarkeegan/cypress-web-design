@@ -1,45 +1,60 @@
 +++
 title = 'Day4'
 date = 2024-11-07T10:36:46-08:00
-draft = true
+draft = false
+featured_image = '/images/user_interview.webp'
 +++
 
-### **Day 4: Test Ideas and Assumptions**
+### **Day 4: Defining Project Goals and User Journey Mapping**
 
 **Objectives:**
 
-   - How do you know if your idea is worth pursuing?
-   - Validate ideas by creating a series of tests.
-   - Design a Landing Page (marketing page) to gauge interest.
+- Formalize project goals and main features.
+- Create user *journey maps* and/or *storyboards*.
 
 **Activities:**
 
-1. **Try one of these strategies:**
-   - [ ] Sign up for newsletter for updates on project progress.
-   - [ ] Sign up for waitlist. They will be the first to know when it is available.
-   - [ ] Create a 'buy' button, that is a teaser, it will just give information about when the product will be available. 
-     - This on is a bit shady, but is probably the most accurate way to gauge if people will pay for the app.
+1. **Top Tasks Analysis:**
+   - **User Task Identification:**
+     - What would and MVP (minimum viable product) look like?
+     - Try at least one of the following
+     - **Poll Unit**
+       - After compiling a list of potential top tasks, poll users to see what is important.
+       - [Poll Unit](https://pollunit.com/en)
+         - Create a new poll.
+         - Collect Ideas. Basically, have users vote on their favorite features.
+     - **Simulate with AI**
+       - Give a list of all of your features to an AI, and have it select the most important ones.
+       - A good way to go about this is to encourage the AI to ask follow up questions back to you.
+       - Use it to help you clarify your goals.
 
-2. **Social Media Poll (optional):**
-   - **Create a Poll to Gauge Interest:**
-     - Use Instagram, Twitter, Facebook or other to create a poll.
-     - Ask questions that would give you actionable information. "Do use something like this currently?", "What features would you want this to have?", "How do you currently do this?"
-   - **Paper Prototype:**
-     - The idea of a paper prototype is not to draw a prototype of your app, but to map out what the tasks of the user are, and how they currently accomplish them. 
-     - This is literally a black sheet of paper. 
-     - Essentially you, the designer, are the interface. 
+2. **User Journey Mapping:**
+   - **Journey Creation:**
+     - Develop a user journey map for each [persona](/posts/day3)
+     - Highlight touchpoints, user emotions, and potential pain points at each stage.
+     - This is a story of a hypothetical user.
+     - Highly simplified.
+   - **Visualization:**
+     - Use visual aids to represent the journey, making it easier to identify areas for improvement.
+     {{< figure src="https://cdn.prod.website-files.com/5c7fdbdd4e3feeee8dd96dd2/61f30632c825c83952c1ad95_user%20map%203.jpg" alt="User Journey Map" caption="User Journey Map" >}}
 
-3. **Create a Survey:**
-   - **Google Forms:**
-     - Create a survey with google forms to help gauge interest.
+3. **Storyboard Development (Optional):**
+   - **Narrative Creation:**
+     - Create storyboards that depict scenarios of how the product fits into users' lives.
+     - Illustrate contexts of use, environments, and interactions.
+   - **Enhance Understanding:**
+     - Use storyboards to empathize with users and refine features accordingly.
 
-4. **User Interview:**
-   - **Interview a Potential User** 
-     - Ask them about their current process.
-     - How much they currently spend on this activity.
-     - General questions about how the activity fits into their life.
-       - What do they do before or after this activity?
-   - **YouTube, Reddit, other Groups**
-     - Find where people are talking about things related to your app. 
+     {{< figure src="https://cdn.prod.website-files.com/666aa4fbe0e580742d2d8407/66f2c0936e57fe161ef9a3f9_UX-Storyboard_Example-Color-2-720x466.png" alt="Storyboard example" caption="Storyboard" >}}
+
+4. **Review and Submissions:**
+   - **Group Discussion:**
+     - Review all materials created so far.
+     - Ensure everyone is aligned on the project direction.
+   - **Submit:**
+     - :white_check_mark: At this point, what are the main features?
+     - :white_check_mark: At this point, what features would your MVP have?
 
 ---
+
+

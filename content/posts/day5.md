@@ -4,46 +4,39 @@ date = 2024-11-07T15:54:30-08:00
 draft = true
 +++
 
-### **Day 5: Defining Project Goals and User Journey Mapping**
+### **Day 5: Test Ideas and Assumptions**
 
 **Objectives:**
 
-- Formalize project goals and key features.
-- Identify top tasks that users need to accomplish.
-- Create user *journey maps* and/or *storyboards*.
+   - How do you know if your idea is worth pursuing?
+   - Validate ideas by creating a series of tests.
+   - Design a Landing Page (marketing page) to gauge interest.
 
 **Activities:**
 
-1. **Top Tasks Analysis:**
-   - **User Task Identification:**
-     - List the primary tasks users need to perform within the solution.
-     - Prioritize tasks based on user importance and frequency.
-     - What would and MVP (minimum viable product) look like?
+1. **Try one of these strategies:**
+   - [ ] Sign up for newsletter for updates on project progress.
+   - [ ] Sign up for waitlist. They will be the first to know when it is available.
+   - [ ] Create a 'buy' button, that is a teaser, it will just give information about when the product will be available. 
+     - This on is a bit shady, but is probably the most accurate way to gauge if people will pay for the app.
 
-2. **User Journey Mapping:**
-   - **Journey Creation:**
-     - Develop a user journey map for each [persona](/posts/day3)
-     - Highlight touchpoints, user emotions, and potential pain points at each stage.
-   - **Visualization:**
-     - Use visual aids to represent the journey, making it easier to identify areas for improvement.
-     {{< figure src="https://cdn.prod.website-files.com/5c7fdbdd4e3feeee8dd96dd2/61f30632c825c83952c1ad95_user%20map%203.jpg" alt="User Journey Map" caption="User Journey Map" >}}
+2. **Paper Prototype:**
+   - **Paper Prototype:**
+     - The idea of a paper prototype is not to draw a prototype of your app, but to map out what the tasks of the user are, and how they currently accomplish them. 
+     - This is literally a black sheet of paper. 
+     - Essentially you, the designer, are the interface. 
 
-3. **Storyboard Development (Optional):**
-   - **Narrative Creation:**
-     - Create storyboards that depict scenarios of how the product fits into users' lives.
-     - Illustrate contexts of use, environments, and interactions.
-   - **Enhance Understanding:**
-     - Use storyboards to empathize with users and refine features accordingly.
+3. **Create a Survey:**
+   - **Google Forms:**
+     - Create a survey with google forms to help gauge interest.
 
-     {{< figure src="https://cdn.prod.website-files.com/666aa4fbe0e580742d2d8407/66f2c0936e57fe161ef9a3f9_UX-Storyboard_Example-Color-2-720x466.png" alt="Storyboard example" caption="Storyboard" >}}
-
-4. **Review and Submissions:**
-   - **Group Discussion:**
-     - Review all materials created so far.
-     - Ensure everyone is aligned on the project direction.
-   - **Submit:**
-     - :white_check_mark: At this point, what are the main features?
+4. **User Interview:**
+   - **Interview a Potential User** 
+     - Ask them about their current process.
+     - How much they currently spend on this activity.
+     - General questions about how the activity fits into their life.
+       - What do they do before or after this activity?
+   - **YouTube, Reddit, other Groups**
+     - Find where people are talking about things related to your app. 
 
 ---
-
-
