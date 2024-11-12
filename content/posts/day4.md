@@ -54,6 +54,8 @@ featured_image = '/images/user_interview.webp'
    - **Submit:**
      - :white_check_mark: At this point, what are the main features?
      - :white_check_mark: At this point, what features would your MVP have?
+     - :white_check_mark: User Journey Maps for your App.
+     - :white_check_mark: Include other information from polls or generated through AI.
 
 ---
 
