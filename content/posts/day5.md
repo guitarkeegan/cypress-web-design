@@ -2,6 +2,7 @@
 title = 'Day5'
 date = 2024-11-07T15:54:30-08:00
 draft = false
+featured_image = '/images/work-tasks.webp'
 +++
 
 ### **Day 5: Test Ideas and Assumptions**
