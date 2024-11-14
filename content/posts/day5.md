@@ -1,6 +1,6 @@
 +++
 title = 'Day5'
-date = 2024-13-07T15:54:30-08:00
+date = 2024-11-07T15:54:30-08:00
 draft = false
 +++
 
@@ -38,7 +38,7 @@ draft = false
      - General questions about how the activity fits into their life.
        - What do they do before or after this activity?
      - Avoid hypotheticals, instead ask about their current usage or behavior.
-     - Think of the interviewee as a serogate if they do not fit your target user exactly.
+     - Think of the interviewee as a surogate if they do not match your target audience exactly.
      - Ask a lot of follow up questions. "Why?"
      ![Mindy from Animaniacs](/images/mindy.webp)
 
