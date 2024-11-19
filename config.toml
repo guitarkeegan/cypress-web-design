@@ -3,8 +3,18 @@ languageCode = 'en-us'
 title = 'Cypress Group Projets 2024'
 theme = 'ananke'
 enableEmoji = true
+SectionPagesMenu = "main"
+recent_posts_number = 3
 
 [context.production.environment]
   baseURL = 'https://cypress-web-design-2024.netlify.app'
   title = 'Cypress Group Projets 2024'
   HUGO_VERSION = '0.137.0'
+
+
+[params]
+text_color = ""
+author = "Keegan Anglim"
+favicon = ""
+site_logo = ""
+description = "A project site for Cypress Web Design Project 2024"

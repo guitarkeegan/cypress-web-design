@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Cypress Group Projets 2024</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Nov 2024 15:54:30 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 16:13:42 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day6</title>
+      <link>http://localhost:1313/posts/day6/</link>
+      <pubDate>Thu, 07 Nov 2024 16:13:42 -0800</pubDate>
+      <guid>http://localhost:1313/posts/day6/</guid>
+      <description>&lt;h3 id=&#34;day-6-low-fidelity-wireframing-flow-chart&#34;&gt;&lt;strong&gt;Day 6: Low-Fidelity Wireframing Flow Chart&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Objectives:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Begin creating low-fidelity wireframes of the app.&lt;/li&gt;&#xA;&lt;li&gt;Create a basic flow chart to show the app navigation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Activities:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wireframing:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Start sketching initial ideas on paper or using Figma.&lt;/li&gt;&#xA;&lt;li&gt;Create low-fidelity wireframes in Figma to establish the basic layout and navigation flow.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://miro.medium.com/v2/resize:fit:1170/1*DsewIjSZe2quBs1OPuQ-VQ.jpeg&#34;&#xA;       alt=&#34;wireframe sample&#34;&gt;&#xA;   &lt;/figure&gt;&#xA;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Flow Chart:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Create a basic flow chart to show the app&amp;rsquo;s navigation.&lt;/li&gt;&#xA;&lt;li&gt;Use Figma or Figjam to create the flow chart.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://svg.template.creately.com/geqyowvc6&#34;&#xA;       alt=&#34;Flow chart example&#34;&gt;&lt;figcaption&gt;&#xA;         &lt;p&gt;A Flow Chart can be used to demonstrate how a user can navigate the application.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Day5</title>
       <link>http://localhost:1313/posts/day5/</link>

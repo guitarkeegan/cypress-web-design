@@ -1,14 +1,15 @@
 +++
 title = 'Day6'
 date = 2024-11-07T16:13:42-08:00
-draft = true
+draft = false
+featured_image = '/images/wire_frame.webp'
 +++
 
 ### **Day 6: Low-Fidelity Wireframing Flow Chart**
 
 **Objectives:**
 
-- Begin creating low-fidelity wireframes of the product.
+- Begin creating low-fidelity wireframes of the app.
 - Create a basic flow chart to show the app navigation.
 
 **Activities:**
@@ -16,6 +17,8 @@ draft = true
 1. **Wireframing:**
    - Start sketching initial ideas on paper or using Figma.
    - Create low-fidelity wireframes in Figma to establish the basic layout and navigation flow.
+
+   {{< figure src="https://miro.medium.com/v2/resize:fit:1170/1*DsewIjSZe2quBs1OPuQ-VQ.jpeg" alt="wireframe sample" content="Lo-Fi Wireframe" >}}
 
 2. **Flow Chart:**
    - Create a basic flow chart to show the app's navigation.
@@ -35,6 +38,7 @@ draft = true
    - Start setting up a simple website using Webflow or HTML/CSS to document the project's progress.
    - This will likely need to be dedicated to one member's account.
    - For a more collaborative approach, you can use Github or Github pages.
+
    ***Options for Collaboration on Documentation Website***
      - **Replit.com**
        [Replit](https://replit.com)
@@ -59,4 +63,8 @@ draft = true
        - Wordpress is a free, open-source CMS, that is a no code tool.
        - However, Wordpress can be pretty complicated if you are not familiar with it.
 
+5. **Submit to Canvas:**
+   - :white_check_mark: Upload links to your wireframes.
+   - :white_check_mark: Upload links to your flowchart in Figjam.
+   - :white_check_mark: Decide on a platform for showcasing your project process.
 ---
