@@ -8,23 +8,15 @@ draft = true
 
 **Objectives:**
 
-- Finalize the high-fidelity prototype for testing purposes.
+- Finish working on hi-fi design.
+- Create a Hi-fi prototype, which will be used for user testing.
 
-**Activities:**
+**Activities**
 
-1. **Usability Testing Plan:**
-   - Define objectives for the usability test (e.g., test navigation, understandability of features).
-   - Develop a script that includes:
-     - Introduction and purpose of the test.
-     - Tasks for users to complete.
-     - Open-ended questions to gather qualitative feedback.
-
-2. **Recruitment Strategy:**
-   - Identify potential users outside of class who match the user personas.
-   - Plan how to reach out and schedule testing sessions.
-
-3. **Prototype Refinement:**
-   - Make final adjustments to the prototype based on peer feedback.
-   - Ensure all interactive elements are functioning in Figma for testing.
+   - **Prototype**
+   - Use Figma to create a hi-fi prototype.
+   - You do **not** need to create a prototype for every screen. Focus your main features or whatever you'd like to showcase or test.
+   - Inlude navigation, actions, and animations if desired. 
+   - The usecase for the prototype is present to stakeholders, test users, and communicate the design to developers.
 
 ---

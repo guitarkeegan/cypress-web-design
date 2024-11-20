@@ -4,10 +4,11 @@ date = 2024-11-07T16:25:52-08:00
 draft = true
 +++
 
-### **Day 7: High-Fidelity Prototyping and Design System Development**
+### **Day 7: High-Fidelity Design**
 
 **Objectives:**
 
+- Discuss Different Approches to Design.
 - Develop high-fidelity prototypes in Figma.
 - Begin building a design system with reusable components.
 
@@ -15,9 +16,10 @@ draft = true
 
 1. **Moodboard**
    - Create a moodboard in Figma.
+   - The purpose is to be aware of the visual world that the user is in.
    - Moodboards can help you to derive color palettes, typography, and imagery for your app.
    - Shapes and Icons can also be included.
-   - Some people like to scan Pintrest or Dribbble for inspiration.
+   - The moodboard will help keep the design consistent across designers. 
    - Think about what your app is, and any emotions that you want to evoke.
    - You can look at competitors, as maybe what not-to-do.
    - This is a pretty creative process, so you can create several, collaborate,
@@ -30,25 +32,31 @@ draft = true
 
    {{< figure src="https://assets.justinmind.com/wp-content/uploads/2020/04/website-mood-board-example-brand-identity.png" alt="a moodboard" caption="Moodboard Example">}}
 
+2. **Approaches to Working** 
+   - **Iterative:** 
+      - Continuously make adjustments based on testing and feedback.
+      - Deside on a feature to work on. Assign the feature to one or more members.
+      - Share progress with team, or test with users. 
+      - Make adjustments.
+      - A Kanban board can be used to track feature progress. 
+      - A design system emerges based testing and feedback, and combining the best ideas.  
+   - **Atomic**
+     - The design system or style guide will be built first.
+     - Start with the smallest design components.
+       - Typography, color, buttons, button states (hover, active, etc.), borders, shadows, etc.
+       - Typography should include error messages, headings, body text, and others. 
+       - Start moving on to larger components: forms, cards, menus, nav, other UI elements.
+       - Finish by assebling components into layouts.
 
-   {{< figure src="https://fliphtml5.com/learning-center/wp-content/uploads/2024/06/examples-of-mood-boards-for-fashion-watercolore.png" alt="a moodboard" caption="Moodboard Example">}}
+   - **Top Down vs Bottom Up**
+     - *Iterative* is top down.
+       - Big picture first, then work down to the details. 
+     - *Atomic* is bottom up, starting with the atoms and working up to the larger project. 
 
-2. **High-Fidelity Design:**
-   - Build from the wireframes by adding visual design elements like color, typography, and imagery.
-   - Ensure the prototype aligns with the user personas and journey maps created earlier.
-
-3. **Design System Creation:**
-   - Establish a design system in Figma that includes:
-     - Color palettes and themes.
-     - Typography styles for headings, body text, etc.
-     - Create components for buttons, forms, icons, and navigation elements.
-     - Use variables in Figma where helpful to maintain consistency.
-
-4. **Update Documentation Site:**
+3. **Update Documentation Site:**
    - Remember to update the site as the design is built out.
 
-5. **Submisson:**
-   - :white_check_mark: Submit the current progress on the high-fidelity design.
-   - :white_check_mark: Do the same for the design system.
+4. **Submisson:**
+   - :white_check_mark: Submit the current progress on the high-fidelity design and moodboard.
 
 ---
