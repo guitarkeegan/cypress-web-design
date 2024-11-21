@@ -1,7 +1,8 @@
 +++
 title = 'Day7'
 date = 2024-11-07T16:25:52-08:00
-draft = true
+draft = false
+featured_image = 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Abstract_Kanban_Board.svg/1200px-Abstract_Kanban_Board.svg.png'
 +++
 
 ### **Day 7: High-Fidelity Design**
@@ -9,7 +10,6 @@ draft = true
 **Objectives:**
 
 - Discuss Different Approches to Design.
-- Develop high-fidelity prototypes in Figma.
 - Begin building a design system with reusable components.
 
 **Activities:**
@@ -22,7 +22,7 @@ draft = true
    - The moodboard will help keep the design consistent across designers. 
    - Think about what your app is, and any emotions that you want to evoke.
    - You can look at competitors, as maybe what not-to-do.
-   - This is a pretty creative process, so you can create several, collaborate,
+   - This is a pretty creative process, so you can create several, collaborate,:
    or combine ideas together. 
    - Hopefully, the result will be something that all of the contributors can look to
    to promote a consistent and cohesive design.
@@ -35,10 +35,10 @@ draft = true
 2. **Approaches to Working** 
    - **Iterative:** 
       - Continuously make adjustments based on testing and feedback.
-      - Deside on a feature to work on. Assign the feature to one or more members.
+      - Decide on a feature to work on. Assign the feature to one or more members.
       - Share progress with team, or test with users. 
       - Make adjustments.
-      - A Kanban board can be used to track feature progress. 
+      - A Kanban can be used to track feature progress. 
       - A design system emerges based testing and feedback, and combining the best ideas.  
    - **Atomic**
      - The design system or style guide will be built first.

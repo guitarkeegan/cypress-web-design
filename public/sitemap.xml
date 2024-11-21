@@ -2,20 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/extra/animation_1/</loc>
-    <lastmod>2024-11-14T16:27:43-08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-14T16:27:43-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/extra/</loc>
-    <lastmod>2024-11-14T16:23:31-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/day8/</loc>
-    <lastmod>2024-11-07T17:23:15-08:00</lastmod>
+    <lastmod>2024-11-19T16:26:26-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-07T17:23:15-08:00</lastmod>
+    <lastmod>2024-11-19T16:26:26-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/day7/</loc>
     <lastmod>2024-11-07T16:25:52-08:00</lastmod>
