@@ -2,6 +2,7 @@
 title = 'Day8'
 date = 2024-11-07T17:23:15-08:00
 draft = false
+featured_image = '/images/prototype.webp'
 +++
 
 ### **Day 8:  Design and Prototype Intro**
@@ -47,5 +48,9 @@ draft = false
      - Inlude navigation, actions, and animations if desired. 
      - The usecase for the prototype is present to stakeholders, test users, and communicate the design to developers.
      - Use the prototype in your documentation site.
+
+     {{< video src="/videos/figma-recording.mp4" >}}
+
+   **Don't be lame like me, use the same color of background...**
 
 ---
