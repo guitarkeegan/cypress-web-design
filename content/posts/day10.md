@@ -6,7 +6,7 @@ featured_image = 'https://images.squarespace-cdn.com/content/v1/5e583f96875a3f6f
 +++
 
 
-### **Day 10: Prepare Docs and Presentation Prep**
+### **Day 10: Prepare Docs and Presentation Preparation**
 
 **Activities:**
 
