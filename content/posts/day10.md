@@ -10,7 +10,7 @@ featured_image = 'https://images.squarespace-cdn.com/content/v1/5e583f96875a3f6f
 
 **Activities:**
 
-1. **Documentation:**
+1. **Shmockumendation:**
    - finish working on documentation, and host in a place that will be long lived.
 
 2. **Presentation Requriements:**
